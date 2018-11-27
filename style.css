@@ -1,0 +1,333 @@
+body {
+/padding: 20px;/
+/padding-top:0px;/
+/margin-top:0px;/
+/margin-left: 10px;/
+/margin-right: 10px;/
+}
+nav {
+    display: inline-block;
+}
+
+header {
+    background-color: lightskyblue;
+    max-height: 100px;
+}
+footer {
+    width: 1510px;
+    background-color:gray;
+    height: auto;
+    margin-left: -105px;
+    clear: bottom;
+}
+
+li.hoop {
+    display: inline-block;
+    margin: 20px;
+}
+
+li.raar{
+    display:block;
+    color: white;
+}
+a {
+    color: white;
+}
+ul {
+
+
+}
+ul#dab {
+    display:block;
+}
+p#kop {
+    font-size:1px;
+    color: aqua;
+}
+h2 {
+    font-size: 20px;
+}
+section#jnr {
+    width: 100%;
+    width: 400px;
+    height: auto;
+
+}
+
+article#text1 {
+    width: 600px;
+    height: auto;
+
+}
+
+article#lasange1{
+    margin-left: 600px;
+    width: 400px;
+    padding: 20px;
+    height: auto;
+    display: inline-block;
+    text-align: right;
+    margin-top: -160px;
+
+}
+
+img#lasange {
+    width: 350px;
+    padding: 20px;
+    margin-left: 0px;
+
+}
+article#text2 {
+    width: 600px;
+    height: auto;
+}
+
+img#burrito {
+    margin-left: 670px;
+    width: 650px;
+    height: auto;
+    display: inline-block;
+    text-align: right;
+    margin-top: -3000px;
+
+}
+img#aa{
+    margin-left: 1020px;
+    width: 400px;
+    padding: 20px;
+    height: auto;
+    display: inline-block;
+    text-align: right;
+    margin-top: -260px;
+}
+
+img#brownie {
+    width: 310px;
+    padding: 20px;
+    margin-left: 0px;
+
+
+}
+
+section#las {
+    width: 20%;
+    display: inline-block;
+}
+article#lasa {
+    width: 200px;
+    height: auto;
+    display: inline-block;
+    margin-left: 20px;
+}
+section#bereid {
+    width: 20%;
+    display: inline-block;
+}
+article#bw {
+    margin-left: 30px;
+    width: 350px;
+    height: auto;
+    display: inline-block;
+    text-align: left;
+}
+
+
+img#lasange {
+    margin-left: 65px;
+    width: 400px;
+    padding: 20px;
+    height: auto;
+    display: inline-block;
+    text-align: left;
+}
+section#b{
+    display: inline-block;
+    width: 350px;
+    padding: 20px;
+    height: auto;
+    margin-left: 80px;
+
+
+}
+
+section#btekst1{
+    width: 20%;
+    display: inline-block;
+
+
+ }
+article#ing{
+    width: 200px;
+    height: auto;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: -30px;
+}
+
+section#burbe {
+    width: 20%;
+    display: inline-block;
+    margin-top: -400px;
+}
+
+article#art{
+    margin-left: 30px;
+    width: 350px;
+    height: auto;
+    display: inline-block;
+    text-align: left;
+
+
+}
+img#e{
+    margin-left: 65px;
+    width: 400px;
+    padding: 20px;
+    height: auto;
+    display: inline-block;
+    text-align: left;
+
+
+}
+
+section#c{
+    display: inline-block;
+    width: 350px;
+    padding: 20px;
+    height: auto;
+    margin-left: 80px;}
+
+
+section#brw{
+    width: 20%;
+    display: inline-block;
+}
+
+article#brow{
+    width: 200px;
+    height: auto;
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: -300px;
+}
+
+section#brww{
+    width: 20%;
+    display: inline-block;
+}
+
+article#gg{
+    margin-left: 50px;
+    width: 485px;
+    height: auto;
+    display: flex;
+    text-align: left;
+
+}
+img#lit{
+    margin-left: 400px;
+    width: 400px;
+    padding: 20px;
+    height: auto;
+    display: inline-block;
+    text-align: right;
+    margin-top: -260px;
+    }
+
+article#brownies {
+    width: 600px;
+    height: auto;
+
+}
+img#kingkong{
+    margin-left: 670px;
+    width: 650px;
+    height: auto;
+    display: inline-block;
+    text-align: right;
+    margin-top: -100px;
+}
+img#kongking{
+    margin-left: 1020px;
+    width: 400px;
+    padding: 20px;
+    height: auto;
+    display: inline-block;
+    text-align: right;
+    margin-top: -260px;
+
+}
+
+img#pan{
+
+    height: auto;
+    width: 350px;
+    margin-right: 400px;
+
+}
+img#kaas{
+    height: auto;
+    width: 350px;
+    margin-left: -400px;
+
+}
+img#maken{
+    height: auto;
+    width: 350px;
+    margin-right: 400px;
+
+}
+img#oven{
+    height: auto;
+    width: 350px;
+    margin-left: -400px;
+
+}
+img#bob{
+    margin-left: 600px;
+    width: 400px;
+    height: 300px;
+    margin-top: -400px;
+    margin-bottom: 110px;
+}
+img#bab{
+ width: 350px;
+    margin-right: 800px;
+    margin-top: -500px;
+}
+section#wifi{
+    display: inline-block;
+    width: 350px;
+    padding: 20px;
+    height: auto;
+    margin-left: 80px;
+}
+
+section#Pietj {
+    width: 20%;
+    display: inline-block;
+    margin-top: 0px;
+}
+
+
+h1#Brownie {
+    margin-bottom: 200px;
+    width: 50px;
+}
+article#laat{
+    margin-left: 250px;
+    width: 350px;
+    height: auto;
+    display: inline-block;
+    text-align: left;
+    margin-top: -350px;
+}
+
+.flexcontainer {
+    display: flex;
+}
+
+#box30 {
+    display: flex;
+    flex-direction: row;
+}
